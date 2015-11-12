@@ -1,0 +1,14 @@
+{
+    "name": "edvin/component-slick",
+    "description": "Composer package for Slick, the last carousel you'll ever need",
+    "type": "component",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Edvin Hultberg",
+            "email": "hultberg@mittnett.net"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
