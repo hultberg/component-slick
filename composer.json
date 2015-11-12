@@ -15,6 +15,5 @@
             "email": "ken_wheeler@me.com"
         }
     ],
-    "minimum-stability": "stable",
     "require": {}
 }
