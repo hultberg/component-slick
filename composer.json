@@ -3,8 +3,7 @@
     "description": "Composer package for Slick, the last carousel you'll ever need",
     "type": "component",
     "license": "MIT",
-    "version": "1.5.8",
-    "homepage": "http://kenwheeler.github.io/slick/",
+    "version": "1.5.999999999homepage": "http://kenwheeler.github.io/slick/",
     "support": {
         "issues": "https://github.com/kenwheeler/slick/issues",
         "source": "https://github.com/kenwheeler/slick/"
